@@ -11,7 +11,7 @@ title                    : "Site Title"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
-url                      : "https:/vjandrei.github.io/maukasta-kotisivut"
+url                      : "https://vjandrei.github.io/maukasta-kotisivut/"
 baseurl                  : "/maukasta-kotisivut"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
